@@ -62,3 +62,11 @@ li:hover::after{
     height: 100%;
     background-color: #121212;
 }
+
+main {
+    margin: 0 auto;
+    padding: 2rem;
+    width: 80%;
+    background-color: #000;
+    color: white;
+}
